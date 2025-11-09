@@ -30,41 +30,41 @@ ul ul {
 
 section.lead h1 {
   color: #800000;
-  text-align: left;
+  text-align: center;
 }
 section.lead h1 strong {
   -webkit-text-stroke: 1px #800000;
 }
 section.lead h2 {
   color: #800000;
-  text-align: left;
+  text-align: center;
 }
 section.lead h2 strong {
   -webkit-text-stroke: 1px #800000;
 }
 section.lead h3 {
   color: #800000;
-  text-align: left;
+  text-align: center;
 }
 section.lead h3 strong {
   -webkit-text-stroke: 1px #800000;
 }
 section.lead h4 {
   color: #800000;
-  text-align: left;
+  text-align: center;
 }
 section.lead h4 strong {
   -webkit-text-stroke: 1px #800000;
 }
 section.lead h5 {
   color: #800000;
-  text-align: left;
+  text-align: center;
 }
 section.lead h5 strong {
   -webkit-text-stroke: 1px #800000;
 }
 section.lead p {
-  text-align: right;
+  text-align: center;
 }
 
 header {
